@@ -1,11 +1,5 @@
-# iVirtual
+# .github
 
-**iVirtual** is a performance marketing agency. We build our customers' websites: service sites, landing pages, online stores and catalogs, each one made to bring its owner more inquiries, leads and sales.
+The public profile of the iVirtual organization on GitHub.
 
-[ivirtual.agency](https://ivirtual.agency)
-
----
-
-**iVirtual** es una agencia de performance marketing. Construimos los sitios web de nuestros clientes: sitios de servicios, landing pages, tiendas online y catálogos, cada uno hecho para traerle a su dueño más consultas, leads y ventas.
-
-[ivirtual.agency](https://ivirtual.agency)
+[`profile/README.md`](profile/README.md) is what GitHub shows to anyone on [github.com/ivirtual-agency](https://github.com/ivirtual-agency). The text is written there, and only there.
